@@ -6,3 +6,13 @@ Content-Type: application/json
   "details": "Um evento para quem é apaixonado por informação",
   "maximumAttendees": 100
 }
+
+###
+
+POST http://localhost:3333/events/f8810714-408e-4df6-8983-ee987bccdd90/attendees
+Content-Type: application/json
+
+{ 
+  "name": "Ana Julia",
+  "email": "ana@gmail.com"
+}
