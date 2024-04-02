@@ -29,7 +29,7 @@ The system will scan the participant's credential to allow entry to the event.
 
 - [x] Event check-in will be done via a QR code;
 
-### Technologies
+## Technologies
 
 - Node JS
 - Fastify
