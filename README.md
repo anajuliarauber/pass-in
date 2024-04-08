@@ -36,4 +36,6 @@ The system will scan the participant's credential to allow entry to the event.
 - Typescript
 - Prisma
 - SQLite
+- Swagger
+- Zod
 
