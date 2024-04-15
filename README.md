@@ -25,7 +25,7 @@ The system will scan the participant's credential to allow entry to the event.
 - [x] The participant can only register for events with available slots;
 - [x] The participant can only check-in at an event once;
 
-### Requisitos não-funcionais
+### Non-functional requirements
 
 - [x] Event check-in will be done via a QR code;
 
